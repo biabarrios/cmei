@@ -59,6 +59,10 @@ flutter:
     - imagens/voltarbranco.png
     - imagens/Group 1.png
     - imagens/perfil.png
+    - imagens/avisos.png
+    - imagens/contato.png
+    - imagens/historico.png
+    - imagens/desempenho.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
